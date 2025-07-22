@@ -1,6 +1,6 @@
 ### 👋 Bienvenido a mi Github ¡¡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Java+%7C+Angular+%7C+SQL+%7C+Docker" />
+<img src="[https://img.freepik.com/free-vector/gradient-welcome-lettering_52683-86260.jpg](https://media.hackerearth.com/blog/wp-content/uploads/2019/05/IronMan.gif)" alt="Welcome" width="600"/>
 
 
 🎓 Análisista de Sistemas | 👨‍💻 Full Stack Junior Developer  
