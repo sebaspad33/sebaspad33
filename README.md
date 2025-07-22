@@ -1,5 +1,8 @@
 ### 👋 Bienvenido a mi Github ¡¡
 
+<img src="https://img.freepik.com/free-vector/gradient-welcome-lettering_52683-86260.jpg" alt="Welcome" width="600"/>
+
+
 🎓 Análisista de Sistemas | 👨‍💻 Full Stack Junior Developer  
 💻 Java | Spring Boot | Angular | SQL | Docker | Git | Blockchain | IA  
 📊 Apasionado por la innovación, la eficiencia y el impacto social a través del software.
