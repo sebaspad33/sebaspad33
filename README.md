@@ -1,7 +1,6 @@
 ### 👋 Bienvenido a mi Github ¡¡
 
-> 🖼️ Imagen de [Freepik](https://www.freepik.com/free-vector/gradient-welcome-lettering_52683-86260.htm)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Java+%7C+Angular+%7C+SQL+%7C+Docker" />
 
 🎓 Análisista de Sistemas | 👨‍💻 Full Stack Junior Developer  
 💻 Java | Spring Boot | Angular | SQL | Docker | Git | Blockchain | IA  
