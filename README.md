@@ -1,6 +1,6 @@
 ### 👋 Bienvenido a mi Github ¡¡
 
-<img src="https://img.freepik.com/free-vector/gradient-welcome-lettering_52683-86260.jpg" alt="Welcome" width="600"/>
+> 🖼️ Imagen de [Freepik](https://www.freepik.com/free-vector/gradient-welcome-lettering_52683-86260.htm)
 
 
 🎓 Análisista de Sistemas | 👨‍💻 Full Stack Junior Developer  
