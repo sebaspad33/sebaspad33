@@ -1,6 +1,6 @@
 ### 👋 Bienvenido a mi Github ¡¡
 
-<img src="[https://img.freepik.com/free-vector/gradient-welcome-lettering_52683-86260.jpg](https://media.hackerearth.com/blog/wp-content/uploads/2019/05/IronMan.gif)" alt="Welcome" width="600"/>
+<img src="https://img.freepik.com/free-vector/gradient-welcome-lettering_52683-86260.jpg](https://media.hackerearth.com/blog/wp-content/uploads/2019/05/IronMan.gif" alt="Welcome" width="600"/>
 
 
 🎓 Análisista de Sistemas | 👨‍💻 Full Stack Junior Developer  
