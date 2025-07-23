@@ -39,8 +39,8 @@
 
 ### 📫 ¿Dónde encontrarme?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sebastianpadin)  
-[![Correo](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-padin-1b3a4835b/)
+[![Correo](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:padinsebastian145@gmail.com)
 
 ---
 
