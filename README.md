@@ -44,4 +44,6 @@
 
 ---
 
+![Snake animation](https://github.com/sebastianpadin/sebastianpadin/blob/output/github-contribution-grid-snake-dark.svg)
+
 🚧 *Actualmente mejorando mis habilidades en IA generativa, Clean Code y Arquitectura de Software.*
