@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Java+%7C+Angular+%7C+SQL+%7C+Docker" />
 
 🎓 Análisista de Sistemas | 👨‍💻 Full Stack Developer  
-💻 Java | Spring Boot | Angular | SQL | Docker | Git | Blockchain | IA  
+💻 Java | Spring Boot | Angular | SQL | Docker | Git | Blockchain | QA  
 📊 Apasionado por la innovación, la eficiencia y el impacto social a través del software.
 
 ### 🚀 Tecnologías y herramientas que uso:
